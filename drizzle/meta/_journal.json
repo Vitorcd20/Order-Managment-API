@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1762182458019,
+      "tag": "0000_flawless_joshua_kane",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1762188603308,
+      "tag": "0001_gigantic_dark_phoenix",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1762188643672,
+      "tag": "0002_amazing_shen",
+      "breakpoints": true
+    }
+  ]
+}
