@@ -22,6 +22,20 @@
       "when": 1762188643672,
       "tag": "0002_amazing_shen",
       "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1762194334508,
+      "tag": "0003_freezing_patriot",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1762194396776,
+      "tag": "0004_heavy_killraven",
+      "breakpoints": true
     }
   ]
 }
